@@ -1,6 +1,6 @@
 # Angular Role Based Authorization
 
-This repo is for an accompanying post which can be found [here](https://theinfogrid.com/tech/developers/angular/role-based-authorization-in-angular-route-guards/)
+This repo is for an accompanying post which can be found [here](https://codinglatte.com/posts/angular/role-based-authorization-in-angular-route-guards/)
 
 To run this repo,
 
